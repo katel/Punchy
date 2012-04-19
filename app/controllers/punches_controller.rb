@@ -1,5 +1,5 @@
 class PunchesController < ApplicationController
-	
+	require 'will_paginate/array'
 ###############################################
 # Punchy
 # Please submit bug reports/suggestions via the github repo http://github.com/mazondo/Punchy
