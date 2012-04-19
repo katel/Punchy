@@ -4,3 +4,5 @@ log/*.log
 tmp/**/*
 db/schema.rb
 Gemfile.lock
+.sass-cache/
+public/assets/
